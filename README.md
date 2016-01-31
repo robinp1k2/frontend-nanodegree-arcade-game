@@ -9,7 +9,7 @@ How to Install
 
 How to Play
 -----------
-- The goal is to guider your player past enemies to reach a lake.  Use arrow keys to navigate your player.
+- The goal is to guide your player past enemies to reach a lake.  Use arrow keys to navigate your player.
 - Your player starts on the grassy lawn.  The enemies are moving along a stone path which you must cross to reach the lake.  Keep your player away from the enemies.
 - Each time you sucessfully cross the path and reach the lake you will get a point.  Press the "home" button to try again for more points.
 - If an enemy "gets" you then you will lose a point and be moved back to the lawn.
